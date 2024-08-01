@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>I Can't Think of App Ideas</title>
+    <link rel="stylesheet" href="../../styles/styles.css">
+</head>
+<body>
+    <header>
+        <h1>I Can't Think of App Ideas</h1>
+        <nav>
+            <a href="../../index.html">Home</a>
+            <a href="../../about.html">About</a>
+        </nav>
+    </header>
+    <main>
+       
+        
+    </main>
+    <script src="../scripts/main.js"></script>
+</body>
+</html>
